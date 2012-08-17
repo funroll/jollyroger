@@ -1,5 +1,5 @@
 {
-  "name": "Jolly Roger",
+  "name": "jollyroger",
   "description": "Kill processes to free resources without closing tabs",
   "version": "1.0",
   "background": { "scripts": ["background.js"] },
