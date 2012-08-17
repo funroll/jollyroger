@@ -1,0 +1,15 @@
+{
+  "name": "Jolly Roger",
+  "description": "Kill processes to free resources without closing tabs",
+  "version": "1.0",
+  "background": { "scripts": ["background.js"] },
+  "permissions": [
+    "tabs", "http://*/*", "experimental"
+  ],
+  "browser_action": {
+    "name": "Kill all tab processes",
+    "default_icon": "icon.png",
+    "icons": ["icon.png"]
+  },
+  "manifest_version": 2
+}
