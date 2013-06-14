@@ -21,8 +21,10 @@ Beware that other Chrome Extensions will probably be killed along with tab rende
 
 ## Install the jollyroger Extension
 - Click [here](https://github.com/funroll/jollyroger/blob/master/jollyroger.crx?raw=true) to download the .crx file
-- Click the wrench icon --> Tools --> Extensions
+- Click the three line "burger button" icon --> Tools --> Extensions
 - Drag the downloaded jollyroger.crx file into the body of the Extensions page
+(Note that this no longer works from the download icon in Chrome directly. Now you have the find the file in the filesystem and drag it in (e.g. from Finder)
+
 
 Now you're ready to reclaim memory and processing power from tabs you're not actively using. 
 
