@@ -1,6 +1,10 @@
 jollyroger
 ==========
 
+# Warning: No longer works!
+
+This code doesn't work any more. If you want to fix it, feel free to send a PR.
+
 # Overview
 
 jollyroger is a Google Chrome Extension to kill processes without closing tabs. It uses the [experimental processes api](https://developer.chrome.com/extensions/experimental.processes.html).
